@@ -1,0 +1,10 @@
+#butt_ons {
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+  background-color: rgb(42, 0, 70, 0.1);
+  border: none;
+}
+#butt_ons:hover {
+  background-color: rgb(255, 174, 0);
+}

@@ -1,0 +1,12 @@
+ul,
+LINK {
+  text-decoration: none;
+}
+
+.mr-5:hover {
+  color: rgb(255, 174, 0);
+}
+
+#out:hover {
+  text-decoration: none;
+}

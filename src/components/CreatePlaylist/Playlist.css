@@ -1,0 +1,7 @@
+.popup {
+  background-color: rgb(7, 0, 12);
+  color: white;
+  border-radius: 5px;
+  position: relative;
+  display: grid;
+}

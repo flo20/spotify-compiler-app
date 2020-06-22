@@ -1,0 +1,25 @@
+#activity_btn {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  margin: 2rem;
+  padding: 1rem;
+  width: 10rem;
+  background: rgb(42, 0, 70, 0.9);
+  border: none;
+}
+
+.my-5 {
+  text-align: center;
+  color: rgb(42, 0, 70);
+}
+.add_btn {
+  background: rgb(42, 0, 70, 0.9);
+}
+
+/* #back_ground {
+  background-image: url("https://source.unsplash.com/YrtFlrLo2DQ");
+  background-attachment: fixed;
+  background-position: cover cover;
+  background-repeat: no-repeat;
+} */
