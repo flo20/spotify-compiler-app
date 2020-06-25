@@ -46,4 +46,14 @@ Add localhost:3000/ as Redirect URI in your Spotify App Settings.
 
 ## Photo Credits
 
--\* Background image photo by [Marcela skoski](https://unsplash.com/@marcelalaskoski) on [Unsplash](https://unsplash.com/)
+- Background image photo by [Marcela skoski](https://unsplash.com/@marcelalaskoski) on [Unsplash](https://unsplash.com/)
+
+## Collaborators
+
+Florence Anipa -[LinkedIn Profile](https://www.linkedin.com/in/florence-mawu-femo-anipa/)
+
+Tanja Lehtinen -[LinkedIn Profile](https://www.linkedin.com/in/tanja-lehtinen-3b692019b/) -[Github](https://github.com/maaliskesakuu)
+
+Nancy Mulozi -[LinkedIn Profile](https://www.linkedin.com/in/nancy-minyoi-mulozi/) -[Github](https://github.com/nanrisa27)
+
+Oona Kakkonen -[LinkedIn Profile](https://www.linkedin.com/in/oona-kakkonen/) -[Github](https://github.com/oona-k)
