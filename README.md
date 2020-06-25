@@ -38,22 +38,38 @@ Add localhost:3000/ as Redirect URI in your Spotify App Settings.
 - Replayify App by [Pasi Lampinen](https://github.com/palampinen/replayify)
 - Pusher article by [Ayooluwa Isaiah](https://pusher.com/tutorials/spotify-history-react-node#set-up-the-server)
 
-## Techlogies Used
+## Techlogies and libraries used
 
+- React
 - Bootstrap
-- Favicon
 - Fontawsome
+- React-tooltip
+- Spotify Web Api
+- Firebase
 
 ## Photo Credits
 
 - Background image photo by [Marcela skoski](https://unsplash.com/@marcelalaskoski) on [Unsplash](https://unsplash.com/)
 
+## Deployed on firebase
+
 ## Collaborators
 
-Florence Anipa -[LinkedIn Profile](https://www.linkedin.com/in/florence-mawu-femo-anipa/)
+Florence Anipa
 
-Tanja Lehtinen -[LinkedIn Profile](https://www.linkedin.com/in/tanja-lehtinen-3b692019b/) -[Github](https://github.com/maaliskesakuu)
+- [LinkedIn Profile](https://www.linkedin.com/in/florence-mawu-femo-anipa/)
 
-Nancy Mulozi -[LinkedIn Profile](https://www.linkedin.com/in/nancy-minyoi-mulozi/) -[Github](https://github.com/nanrisa27)
+Tanja Lehtinen
 
-Oona Kakkonen -[LinkedIn Profile](https://www.linkedin.com/in/oona-kakkonen/) -[Github](https://github.com/oona-k)
+- [LinkedIn Profile](https://www.linkedin.com/in/tanja-lehtinen-3b692019b/)
+- [Github](https://github.com/maaliskesakuu)
+
+Nancy Mulozi
+
+- [LinkedIn Profile](https://www.linkedin.com/in/nancy-minyoi-mulozi/)
+- [Github](https://github.com/nanrisa27)
+
+Oona Kakkonen
+
+- [LinkedIn Profile](https://www.linkedin.com/in/oona-kakkonen/)
+- [Github](https://github.com/oona-k)
