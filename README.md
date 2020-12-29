@@ -1,7 +1,5 @@
 # Harmony
 
- ![Harmony music image](./public/Harmony-Spotify-App-image.png?raw=true)
-
 This is a schoool project that was bootstrapped with [Create React App]
 
 This application uses Spotify Web API to discover users most listened tracks and artists from Spotify. User can listen to previews of different music based on a particular category or what mood they are in, user can also create playlist from their favorite tracks and artists to Spotify app.
