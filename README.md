@@ -1,6 +1,6 @@
 # Harmony
 
-![Harmony music image](./public/Harmony-Spotify-App-image.png?raw=true)
+ ![Harmony music image](./public/Harmony-Spotify-App-image.png?raw=true)
 
 This is a schoool project that was bootstrapped with [Create React App]
 
